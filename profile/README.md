@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./logo.svg" alt="Logo" width="400">
+  <img src="https://moye.design/wp-content/uploads/logo.svg" alt="Logo" width="400">
 </p>
 
 # Who we are?
