@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://uploads-ssl.webflow.com/5d2352d9d52c51fb85e8621a/5d4844bde90ce89f8d5739ea_logo-header.svg" alt="Logo" width="400">
+  <img src="./images/logo.svg" alt="Logo" width="400">
 </p>
 
 # Who we are?
@@ -50,7 +50,7 @@ If your technical team needs additional support we may be able to help by acting
 
 When your team becomes stretched, we can also help deliver research, solution architecture and ops automation. Our consultants have decades of experience in software and system design and have built systems which scale to millions of transactions per day.
 
-# Project overview
+# Projects overview
 
 Check out the project we are proudest of [here](https://www.lakesidernd.com/projects).
 
