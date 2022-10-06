@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./images/logo.svg" alt="Logo" width="400">
+  <img src="./logo.svg" alt="Logo" width="400">
 </p>
 
 # Who we are?
