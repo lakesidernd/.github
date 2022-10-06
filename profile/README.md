@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://moye.design/wp-content/uploads/logo.svg" alt="Logo" width="400">
+  <img src="https://uploads-ssl.webflow.com/5d2352d9d52c51fb85e8621a/633ece24c95acb597543faa6_logo.svg" alt="Logo" width="400">
 </p>
 
 # Who we are?
